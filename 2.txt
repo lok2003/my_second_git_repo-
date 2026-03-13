@@ -1,2 +1,6 @@
 Hi this the second repo in local
+<<<<<<< HEAD
 Remote edit
+=======
+local update
+>>>>>>> d2bc802 (local-edit)
